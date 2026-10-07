@@ -68,7 +68,3 @@ Classes: 100.00% (2/2)
 Methods: 100.00% (12/12)
 Lines:   100.00% (112/112)
 ```
-(Adicione aqui o print da execução no seu computador.)
-
-## Relatório técnico
-Ver `RELATORIO.md`.
